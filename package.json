@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navdeepkooner/Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navdeepkooner/Test/issues"
+  },
+  "homepage": "https://github.com/navdeepkooner/Test#readme",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
